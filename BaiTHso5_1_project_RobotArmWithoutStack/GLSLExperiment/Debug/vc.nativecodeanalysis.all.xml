@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment</FILEPATH>
+      <FILENAME>checkerror.h</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>6001</DEFECTCODE>
+    <DESCRIPTION>Using uninitialized memory 'msg'.</DESCRIPTION>
+    <FUNCTION>ErrorString</FUNCTION>
+    <DECORATED>?ErrorString@@YAPBDI@Z</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment</FILEPATH>
+        <FILENAME>checkerror.h</FILENAME>
+        <LINE>18</LINE>
+        <COLUMN>17</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'msg' is not initialized</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment</FILEPATH>
+        <FILENAME>checkerror.h</FILENAME>
+        <LINE>19</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>branch</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Assume switch ( 'error' ) resolves to the default case</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment</FILEPATH>
+        <FILENAME>checkerror.h</FILENAME>
+        <LINE>31</LINE>
+        <COLUMN>4</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'msg' is used, but may not have been initialized</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment</FILEPATH>
+      <FILENAME>initshader.cpp</FILENAME>
+      <LINE>25</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6386</DEFECTCODE>
+    <DESCRIPTION>Buffer overrun while writing to 'buf':  the writable size is '(size+1)*1' bytes, but '4294967295' bytes might be written.</DESCRIPTION>
+    <FUNCTION>Angel::readShaderSource</FUNCTION>
+    <DECORATED>?readShaderSource@Angel@@YAPADPBD@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment</FILEPATH>
+        <FILENAME>initshader.cpp</FILENAME>
+        <LINE>16</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment</FILEPATH>
+        <FILENAME>initshader.cpp</FILENAME>
+        <LINE>18</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment</FILEPATH>
+        <FILENAME>initshader.cpp</FILENAME>
+        <LINE>20</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment</FILEPATH>
+        <FILENAME>initshader.cpp</FILENAME>
+        <LINE>21</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment</FILEPATH>
+        <FILENAME>initshader.cpp</FILENAME>
+        <LINE>23</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment</FILEPATH>
+        <FILENAME>initshader.cpp</FILENAME>
+        <LINE>24</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'buf' is a 0 byte array</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment</FILEPATH>
+        <FILENAME>initshader.cpp</FILENAME>
+        <LINE>25</LINE>
+        <COLUMN>9</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'buf' is an In/Out argument to 'fread' (declared at c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h:234)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment</FILEPATH>
+        <FILENAME>initshader.cpp</FILENAME>
+        <LINE>25</LINE>
+        <COLUMN>9</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Invalid write to 'buf', (outside its writable range)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT></DEFECTS>

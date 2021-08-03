@@ -1,0 +1,17 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  example1.cpp
+d:\đồ họa máy tính\baithso3_1_matban\glslexperiment\mat.h(581): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_1_matban\glslexperiment\mat.h(581): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_1_matban\glslexperiment\mat.h(581): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_1_matban\glslexperiment\mat.h(770): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_1_matban\glslexperiment\mat.h(770): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_1_matban\glslexperiment\mat.h(770): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_1_matban\glslexperiment\mat.h(777): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_1_matban\glslexperiment\mat.h(777): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_1_matban\glslexperiment\mat.h(777): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_1_matban\glslexperiment\mat.h(784): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_1_matban\glslexperiment\mat.h(784): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_1_matban\glslexperiment\mat.h(784): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_1_matban\glslexperiment\example1.cpp(85): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+d:\đồ họa máy tính\baithso3_1_matban\glslexperiment\example1.cpp(92): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+  GLSLExperiment.vcxproj -> D:\Đồ họa máy tính\BaiTHso3_1_matban\Debug\GLSLExperiment.exe

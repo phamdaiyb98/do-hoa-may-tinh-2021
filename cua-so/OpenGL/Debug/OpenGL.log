@@ -1,0 +1,23 @@
+﻿  main.cpp
+d:\đồ họa máy tính\baithso3_2_hinhlapphuongdonvi_vs2015\opengl\mat.h(581): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_2_hinhlapphuongdonvi_vs2015\opengl\mat.h(581): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_2_hinhlapphuongdonvi_vs2015\opengl\mat.h(581): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_2_hinhlapphuongdonvi_vs2015\opengl\mat.h(770): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_2_hinhlapphuongdonvi_vs2015\opengl\mat.h(770): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_2_hinhlapphuongdonvi_vs2015\opengl\mat.h(770): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_2_hinhlapphuongdonvi_vs2015\opengl\mat.h(777): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_2_hinhlapphuongdonvi_vs2015\opengl\mat.h(777): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_2_hinhlapphuongdonvi_vs2015\opengl\mat.h(777): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_2_hinhlapphuongdonvi_vs2015\opengl\mat.h(784): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_2_hinhlapphuongdonvi_vs2015\opengl\mat.h(784): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_2_hinhlapphuongdonvi_vs2015\opengl\mat.h(784): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso3_2_hinhlapphuongdonvi_vs2015\opengl\main.cpp(104): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\đồ họa máy tính\baithso3_2_hinhlapphuongdonvi_vs2015\opengl\main.cpp(128): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\đồ họa máy tính\baithso3_2_hinhlapphuongdonvi_vs2015\opengl\main.cpp(129): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\đồ họa máy tính\baithso3_2_hinhlapphuongdonvi_vs2015\opengl\main.cpp(130): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\đồ họa máy tính\baithso3_2_hinhlapphuongdonvi_vs2015\opengl\main.cpp(131): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\đồ họa máy tính\baithso3_2_hinhlapphuongdonvi_vs2015\opengl\main.cpp(132): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\đồ họa máy tính\baithso3_2_hinhlapphuongdonvi_vs2015\opengl\main.cpp(135): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\đồ họa máy tính\baithso3_2_hinhlapphuongdonvi_vs2015\opengl\main.cpp(206): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+d:\đồ họa máy tính\baithso3_2_hinhlapphuongdonvi_vs2015\opengl\main.cpp(209): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+  OpenGL.vcxproj -> D:\Đồ họa máy tính\BaiTHso3_2_Hinhlapphuongdonvi_VS2015\Debug\OpenGL.exe

@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GLSLExperiment.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Robot_Arm.cpp
+e:\works\giaotrinh\dhmtcdio\thuchanh_yen\thuchanh2020\baithso5\baithso5_1_project_robotarmwithoutstack\glslexperiment\robot_arm.cpp(87): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+e:\works\giaotrinh\dhmtcdio\thuchanh_yen\thuchanh2020\baithso5\baithso5_1_project_robotarmwithoutstack\glslexperiment\robot_arm.cpp(88): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+e:\works\giaotrinh\dhmtcdio\thuchanh_yen\thuchanh2020\baithso5\baithso5_1_project_robotarmwithoutstack\glslexperiment\robot_arm.cpp(94): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+e:\works\giaotrinh\dhmtcdio\thuchanh_yen\thuchanh2020\baithso5\baithso5_1_project_robotarmwithoutstack\glslexperiment\robot_arm.cpp(95): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+e:\works\giaotrinh\dhmtcdio\thuchanh_yen\thuchanh2020\baithso5\baithso5_1_project_robotarmwithoutstack\glslexperiment\robot_arm.cpp(101): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+e:\works\giaotrinh\dhmtcdio\thuchanh_yen\thuchanh2020\baithso5\baithso5_1_project_robotarmwithoutstack\glslexperiment\robot_arm.cpp(102): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+e:\works\giaotrinh\dhmtcdio\thuchanh_yen\thuchanh2020\baithso5\baithso5_1_project_robotarmwithoutstack\glslexperiment\robot_arm.cpp(150): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+e:\works\giaotrinh\dhmtcdio\thuchanh_yen\thuchanh2020\baithso5\baithso5_1_project_robotarmwithoutstack\glslexperiment\robot_arm.cpp(153): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+  GLSLExperiment.vcxproj -> E:\Works\GIAOTRINH\DHMTCDIO\Thuchanh_Yen\THUCHANH2020\BaiTHso5\BaiTHso5_1_project_RobotArmWithoutStack\Debug\GLSLExperiment_RobotArm.exe

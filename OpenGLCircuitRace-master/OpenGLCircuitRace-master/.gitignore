@@ -1,0 +1,9 @@
+\.vs/
+
+Temp/
+
+Bin/
+
+*.psess
+
+*.vspx

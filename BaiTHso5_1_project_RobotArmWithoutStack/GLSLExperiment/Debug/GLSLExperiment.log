@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GLSLExperiment.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Robot_Arm.cpp
+d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment\mat.h(581): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment\mat.h(581): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment\mat.h(581): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment\mat.h(770): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment\mat.h(770): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment\mat.h(770): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment\mat.h(777): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment\mat.h(777): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment\mat.h(777): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment\mat.h(784): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment\mat.h(784): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment\mat.h(784): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment\robot_arm.cpp(99): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment\robot_arm.cpp(103): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment\robot_arm.cpp(107): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment\robot_arm.cpp(108): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\đồ họa máy tính\baithso5_1_project_robotarmwithoutstack\glslexperiment\robot_arm.cpp(109): warning C4305: 'argument': truncation from 'double' to 'float'
+  GLSLExperiment.vcxproj -> D:\Đồ họa máy tính\BaiTHso5_1_project_RobotArmWithoutStack\Debug\GLSLExperiment_RobotArm.exe

@@ -1,0 +1,28 @@
+﻿  main.cpp
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\mat.h(581): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\mat.h(581): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\mat.h(581): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\mat.h(770): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\mat.h(770): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\mat.h(770): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\mat.h(777): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\mat.h(777): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\mat.h(777): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\mat.h(784): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\mat.h(784): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\mat.h(784): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\main.cpp(122): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\main.cpp(124): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\main.cpp(125): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\main.cpp(126): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\main.cpp(127): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\main.cpp(131): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\main.cpp(132): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\main.cpp(133): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\main.cpp(134): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\main.cpp(203): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\main.cpp(206): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\main.cpp(231): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\main.cpp(232): warning C4305: '=': truncation from 'double' to 'GLfloat'
+d:\đồ họa máy tính\paintdesk_viewing_projection\opengl\main.cpp(235): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+  OpenGL.vcxproj -> D:\Đồ họa máy tính\PaintDesk_Viewing_Projection\Debug\OpenGL.exe
